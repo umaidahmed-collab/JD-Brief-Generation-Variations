@@ -1,0 +1,38 @@
+About the job
+Summary:
+We are seeking experienced and strategic Head of Applications Service Management to play a leading role in the team responsible for the support, maintenance, and continual improvement of our core Abu Dhabi Enterprise Resource Planning (ADERP) system and other critical enterprise applications. The ideal candidate will be a dynamic leader passionate about ensuring the stability, performance, and reliability of our critical business platforms. You will be responsible for defining the managing the support lifecycle, building strong relationships with government entities and guaranteeing that our ERP system and other enterprise applications effectively supports all business operations and strategic goals.
+Key Responsibilities
+Leadership & Strategy
+	•	Develop and continually improve a comprehensive service operations model for enterprise applications.
+	•	Lead, mentor, and develop a high-performing team of ERP support analysts, service managers, administrators, specialists, and application support engineers.
+	•	Collaborate with senior Government stakeholders to align ERP and enterprise application services with organizational objectives and anticipate future needs.
+Service Delivery & Support
+	•	Oversee all day-to-day enterprise application support activities, including incident management, problem resolution, and service request fulfillment.
+	•	Ensure the implementation and adherence to ITIL best practices for service management.
+	•	Take ownership of major incidents, ensuring timely communication and effective resolution.
+Performance Management & Improvement
+	•	Define, monitor, and report on key performance indicators (KPIs) and service level agreements (SLAs) to measure service effectiveness.
+	•	Drive a culture of continuous service improvement by identifying trends, analyzing root causes, and implementing preventative measures.
+	•	Oversee system monitoring and performance tuning to ensure optimal enterprise application system health and reliability.
+Vendor & Stakeholder Management
+	•	Act as the primary point of contact for the enterprise applications vendors and third-party support partners.
+	•	Effectively communicate system status, incidents, and planned maintenance to all levels of the business.
+Qualifications & Experience
+Essential
+	•	Bachelor's degree in Information Technology, Computer Science, Business Administration, or a related field.
+	•	Minimum 8-10 years of experience in IT service management, with at least 5 years in a leadership role managing an ERP and enterprise application support function.
+	•	Deep expertise with a major Tier 1 ERP system (e.g., SAP S/4HANA, Oracle NetSuite, Microsoft Dynamics 365 F&O) and experience supporting other enterprise applications.
+	•	Proven experience implementing and managing ITIL-based service delivery frameworks.
+	•	Strong leadership and team management skills with a track record of developing talent.
+	•	Excellent communication, interpersonal, and stakeholder management abilities.
+	•	Demonstrated experience in vendor management and contract negotiation.
+Desirable
+	•	Master's degree (MBA or MSc in an IT-related field).
+	•	ITIL v4 certification or other relevant professional certifications.
+	•	Experience managing services in a cloud-hosted (Azure, AWS) or hybrid ERP and enterprise application environment.
+	•	Background in managing both technical and functional support teams.
+	•	Experience with service management tools like ServiceNow, Jira Service Management, or Zendesk.
+Wider Accountability :
+	•	Accountability for the performance of vendor teams providing support services
+	•	Influence and collaboration with other IT teams involved in the lifecycle of the enterprise applications (e.g., Infrastructure, Security, Development)
+

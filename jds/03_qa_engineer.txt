@@ -1,0 +1,78 @@
+🚀 Job Description: QA Engineer
+📄 Overview
+We're looking for a highly skilled and motivated Quality Assurance (QA) Engineer to join our
+development team. The ideal candidate will be responsible for designing and implementing
+tests, debugging, and defining corrective actions. You will also review system requirements and
+track quality assurance metrics (e.g., defect densities and open defect counts). The QA
+Engineer role plays an important part in our company’s software development lifecycle. Our
+ideal candidate will be a creative and proactive problem-solver who is passionate about quality
+and detail-oriented.
+🔑 Responsibilities
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Design and develop test plans, test cases, and test scripts based on product
+requirements and technical specifications.
+Execute test cases (manual and automated) and analyze results.
+Identify, document, and thoroughly track bugs and defects, working closely with
+developers to ensure timely resolution.
+Perform various types of testing including functional, regression, integration,
+performance, and security testing.
+Develop and maintain automation scripts using selected tools (e.g., Selenium, Cypress,
+Playwright).
+Collaborate with cross-functional teams (Product Managers, Developers, DevOps) to
+ensure quality throughout the software development lifecycle.
+Stay up-to-date with new testing tools and test strategies.
+Review and analyze system specifications to prepare for testing.
+Monitor debugging process results.
+Contribute to continuous improvement of the testing process.
+✅ Requirements
+●
+●
+●
+●
+●
+●
+●
+Bachelor's degree in Computer Science, Engineering, or a related field.
+3+ years of proven work experience in software development and quality assurance.
+Strong knowledge of software QA methodologies, tools, and processes.
+Experience in writing clear, concise, and comprehensive test plans and test cases.
+Hands-on experience with automated testing tools (e.g., Selenium, Cypress, JMeter).
+Solid knowledge of SQL and scripting.
+Experience working in an Agile/Scrum development process.
+●
+●
+●
+Proficiency in at least one scripting/programming language (e.g., Python, Java,
+JavaScript).
+Experience with performance and/or security testing is a plus.
+Familiarity with Continuous Integration/Continuous Deployment (CI/CD) pipelines (e.g.,
+Jenkins, GitLab CI).
+🌟 Preferred Qualifications
+●
+●
+●
+●
+Certification in Quality Assurance (e.g., ISTQB Certified Tester).
+Experience with cloud platforms (e.g., AWS, Azure, GCP).
+Experience testing APIs using tools like Postman or similar.
+Knowledge of version control systems like Git.
+🤝 Core Competencies
+●
+●
+●
+●
+●
+Excellent communication skills, both written and verbal.
+Strong analytical and problem-solving skills.
+Meticulous attention to detail and a commitment to high quality.
+Ability to work independently and as part of a team.
+Proactive and eager to learn new technologies and concepts.

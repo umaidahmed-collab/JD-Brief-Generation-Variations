@@ -1,0 +1,124 @@
+About the job
+The Mission 
+
+You will take ownership of an existing AI-powered SaaS platform (D50 AI), stabilize it, make it production-ready, and ensure Division50 fully controls the code, infrastructure, and future development.
+
+This is not a greenfield project.
+
+This is not a "ticket-taking" role.
+
+You will inherit:
+
+an imperfect codebase,
+partial documentation,
+multiple third-party AI and telecom integrations,
+and a founder who needs execution, not theory
+
+If you enjoy untangling systems, understanding how things actually work, and turning chaos into something reliable, this role fits. If you need perfect specs, it doesn't.
+
+What You'll Be Responsible For2. Infrastructure & Deployment3. AI Orchestration & Integrations
+
+ Platform Ownership & Stabilization
+Take full technical ownership of the D50 AI platform
+Understand the existing architecture end-to-end: frontend, backend, AI orchestration, databases, integrations
+Fix stability issues, broken flows, partial logic, and reliability gaps
+Make the platform safe to onboard real users without things breaking
+Own deployment and environments on AWS (or equivalent)
+Ensure proper environment separation (dev / staging / production)
+Set up monitoring, logging, and basic alerting
+Optimize cloud costs so unit economics don't spiral
+
+You will work hands-on with:
+
+OpenAI (text + images)
+ElevenLabs / Cartesia (voice generation)
+Deepgram (speech-to-text)
+HeyGen (video generation)
+AI orchestration frameworks (Langflow or equivalent agent/workflow orchestration)
+
+You don't need to invent new models. You need to:
+
+wire them correctly,
+manage failures,
+handle retries,
+and ensure predictable behavior
+
+4. Telephony & Communication Systems
+
+Own integrations with Twilio and Telnyx
+Understand call flows, call states, retries, dispositions, recordings
+Ensure calls, transcripts, recordings, and outcomes are logged correctly
+Make sure AI caller behavior is reliable and debuggable
+
+5. CRM & Campaign Logic
+
+Maintain and improve the internal CRM logic:
+leads
+activities
+call logs
+email logs
+campaign status
+Ensure MongoDB schemas are clean, scalable, and documented
+Ensure onboarding logic flows correctly into campaign creation, asset generation, and calling logic
+6. Frontend Ownership
+
+Maintain and improve the SaaS dashboard UI
+Work with a React-based frontend (exact framework to be confirmed)
+Fix UX-breaking issues that block onboarding or campaign setup
+You don't need to be a designer, but things must work and make sense
+
+7. Documentation & Knowledge Transfer
+
+Create real documentation as you go:
+architecture overview
+deployment steps
+key workflows
+integration points
+Make the platform understandable to the next engineer, not just yourself
+
+Requirements
+
+Backend & Systems
+
+Strong experience with Node.js / Python (at least one deeply)
+Experience building and maintaining APIs
+Comfortable with async systems, queues, retries, and failure handling
+
+Databases
+
+MongoDB (required)
+Ability to design schemas that support CRM-style workflows and logs
+
+Frontend
+
+React (or similar modern JS framework)
+Comfortable debugging production frontend issues
+
+Cloud & DevOps
+
+AWS (EC2, S3, basic networking, IAM)
+Docker (or similar containerization)
+CI/CD basics (GitHub Actions or similar)
+
+AI / LLM Systems
+
+Practical experience with OpenAI APIs
+Understanding of prompt-driven systems and AI workflows
+Experience with AI orchestration tools (Langflow, LangChain, or similar) is a big plus
+
+Telephony / Real-Time Systems
+
+Experience with Twilio, Telnyx, or similar
+Understanding of call states, SIP concepts, webhooks, and event-driven systems
+
+Nice To Have (Not Required)
+
+Experience with SaaS billing systems
+Experience stabilizing MVPs into production systems
+Experience inheriting messy codebases
+Experience working directly with founders
+
+Benefits
+
+Fully remote
+ No micromanagement

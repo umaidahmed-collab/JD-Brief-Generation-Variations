@@ -1,0 +1,57 @@
+Job Title: Senior Data Scientist - Machine Learning
+
+Company: FinTech Innovations Inc.
+
+About Us:
+FinTech Innovations is a leading financial technology company providing AI-powered solutions for credit risk assessment, fraud detection, and personalized financial recommendations. We process over 10 million transactions daily and serve 200+ banking and fintech clients globally.
+
+Position Overview:
+We are looking for a Senior Data Scientist with expertise in machine learning to join our Risk Analytics team. You will develop and deploy predictive models that help our clients make better lending decisions while ensuring fairness and regulatory compliance.
+
+Key Responsibilities:
+- Design, develop, and deploy machine learning models for credit risk scoring, fraud detection, and customer segmentation
+- Work with large-scale structured and unstructured datasets (billions of records)
+- Build and maintain ML pipelines for model training, validation, and deployment
+- Conduct A/B testing and causal inference analysis to measure model impact
+- Develop explainable AI solutions to meet regulatory requirements (FCRA, ECOA)
+- Collaborate with engineering teams to productionize models at scale
+- Create automated monitoring systems for model performance and drift detection
+- Research and implement state-of-the-art ML techniques (gradient boosting, neural networks, transformer models)
+- Present findings and recommendations to technical and non-technical stakeholders
+- Mentor junior data scientists and contribute to team knowledge sharing
+
+Technical Requirements:
+- MS or PhD in Computer Science, Statistics, Mathematics, or related quantitative field
+- 5+ years of experience in data science or machine learning roles
+- Expert-level proficiency in Python and SQL
+- Strong experience with ML frameworks (scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch)
+- Experience with big data technologies (Spark, Databricks, or similar)
+- Proficiency in statistical analysis and experimental design
+- Experience with cloud platforms (AWS SageMaker, GCP Vertex AI, or Azure ML)
+- Knowledge of MLOps practices and tools (MLflow, Kubeflow, Airflow)
+- Understanding of model interpretability techniques (SHAP, LIME, etc.)
+
+Domain Knowledge (Preferred):
+- Experience in financial services, credit risk, or fraud detection
+- Familiarity with fair lending regulations and model governance
+- Understanding of time series forecasting methods
+- Experience with NLP for document analysis
+- Knowledge of graph neural networks for fraud detection
+
+Soft Skills:
+- Strong problem-solving and analytical thinking
+- Excellent communication skills - ability to explain complex concepts simply
+- Self-motivated with ability to work independently
+- Collaborative mindset and experience working in cross-functional teams
+
+Compensation & Benefits:
+- Base Salary: $180,000 - $220,000
+- Annual Bonus: 15-25% based on performance
+- RSU Grant: $50,000 vesting over 4 years
+- Health, Dental, Vision Insurance
+- Unlimited PTO
+- Remote-first culture
+- $5,000 annual learning & development budget
+- Home office stipend
+
+Location: Remote (US-based)
